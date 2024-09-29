@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Engler.technology'
-#description: 'I am amazing.'
+description: 'Zukunft ohne Schnickschnack'
 
 # Images
 avatar: 'avatar.jpg'
