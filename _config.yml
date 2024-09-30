@@ -1,5 +1,5 @@
 # Theme
-remote_theme: epidrome/cover-card@main
+remote_theme: FrankEngler/cover-card@strip_html
 
 # Title and tag line
 title: 'Engler.<wbr>technology'
